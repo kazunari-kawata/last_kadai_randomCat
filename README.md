@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 制作アプリのタイトル
+無心で猫を見られるサイト
 
-## Getting Started
+## 制作アプリの説明（40文字程度）
+Next.js・React・TypeScriptを使い、猫の画像を無限に楽しめるサイトを作成しました
 
-First, run the development server:
+## 工夫した点・こだわった点
+- テーマが未定のプロトタイプ制作だったため、将来の卒業制作での技術スタックとして想定している **Next.js**・**React**・**TypeScript** の組み合わせを試験的に導入  
+- 無料で使える **Cat API** を活用し、猫の画像を無限に取得・表示できる仕組みを実装
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 次回トライしたいこと（または機能）
+- デザインが皆無のため、UI/UXを意識したデザインを検討・実装する  
+- Next.js／React／TypeScriptの組み合わせは初挑戦だったので、分からない部分を手を動かしながら深く理解していきたい  
+- “モダン開発スキル” と呼ばれる技術をしっかり身につけ、将来に活かす
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 備考（感想・シェアしたいこと）
+今回はシンプルな内容に留まりましたが、新しい言語やフレームワークに触れることで大きな一歩を踏み出せたと感じています。
